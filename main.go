@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	name := 1
-	fmt.Println(name)
+	fmt.Println("Hello World!")
+	fmt.Println("Test commit")
 }
